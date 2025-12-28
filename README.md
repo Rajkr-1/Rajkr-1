@@ -1,5 +1,86 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Raj Kumar</h1><br><h3 align="center">Computer Science Undergraduate | C/C++ | AI/ML | Full-Stack Developer</h3><br><br>---<br><br>## 👨‍💻 About Me<br>- 🎓 Computer Science undergraduate with strong foundations in **C, C++**, and **software engineering**<br>- 🤖 Hands-on experience in **AI/ML, NLP, Deep Learning (BERT, CNNs)**<br>- 🌐 Built real-time and scalable **full-stack applications**<br>- 🧠 Solved **500+ DSA problems**<br>- 🛠️ Comfortable with **Linux-based development**<br>- 🚀 Actively preparing for **software / ML engineering roles**<br><br>---<br><br>## 🧩 Technical Skills<br><br>### 👨‍💻 Programming Languages<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)<br>![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)<br><br>### 🌐 Web Development<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)<br><br>### 🤖 AI / ML<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)<br>![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)<br><br>### 🛠️ Tools & Platforms<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🔹 Cyberbullying Detection (Multimodal AI)<br>- NLP + Deep Learning framework using **BERT & CNN**<br>- Achieved **~89% accuracy**<br>- Includes **LIME explainability**<br>- Text + image based classification<br><br>### 🔹 AI Waste Sorter<br>- Image classification system for automated garbage segregation<br>- Focused on sustainability & recycling<br><br>### 🔹 Tune-and-Talk<br>- Real-time music-based chat application<br>- Built using **Next.js, Socket.IO, YouTube API**<br><br>### 🔹 Task Scheduler (PHP)<br>- Task CRUD, email verification, CRON-based reminders<br>- JSON-based storage, Mailpit integration<br><br>---<br><br>## 📊 GitHub Statistics<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Rajkr-1&show_icons=true&theme=default" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkr-1&theme=default" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact" /><br></p><br><br>---<br><br>## 🔗 Connect With Me<br>- 💼 LinkedIn: *(add your link here)*<br>- 🌐 Portfolio: *(optional)*<br>- 📫 Email: *(optional)*<br><br>---<br><br>⭐ **If you like my work, consider starring the repositories!**<br>
+<h1 align="center">Hi 👋, I'm Raj Kumar</h1>
+<h3 align="center">Computer Science Undergraduate | C/C++ | AI/ML | Full-Stack Developer</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Computer Science undergraduate with strong foundations in **C, C++**, and **software engineering**
+- 🤖 Hands-on experience in **AI/ML, NLP, Deep Learning (BERT, CNNs)**
+- 🌐 Built real-time and scalable **full-stack applications**
+- 🧠 Solved **500+ DSA problems**
+- 🛠️ Comfortable with **Linux-based development**
+- 🚀 Actively preparing for **Software / ML Engineering roles**
+
+---
+
+## 🧩 Technical Skills
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Cyberbullying Detection (Multimodal AI)
+- NLP + Deep Learning framework using **BERT & CNN**
+- Achieved **~89% accuracy**
+- Integrated **LIME explainability**
+- Text + image based classification
+
+### 🔹 AI Waste Sorter
+- Image classification system for automated garbage segregation
+- Focused on sustainability & recycling
+
+### 🔹 Tune-and-Talk
+- Real-time music-based chat application  
+- Built using **Next.js, Socket.IO, YouTube API**
+
+### 🔹 Task Scheduler (PHP)
+- Task CRUD, email verification, CRON-based reminders
+- JSON-based storage, Mailpit integration
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkr-1&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkr-1&theme=default" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: *(add your link here)*
+- 🌐 Portfolio: *(optional)*
+- 📫 Email: *(optional)*
+
+---
+
+⭐ **If you like my work, consider starring the repositories!**
+
 
 
 ## 🌐 Socials:
