@@ -94,10 +94,6 @@ Building scalable systems, real-time applications, and data-driven solutions wit
 - Achieved **~89% accuracy**
 - Integrated **LIME explainability** for model transparency
 
-### 🔹 AI Waste Sorter
-- Image classification system for automated garbage segregation
-- Sustainability-focused ML solution
-
 ### 🔹 VibeSync / Tune-and-Talk
 - Real-time collaborative music & chat application
 - **Next.js, Socket.IO, YouTube API**
@@ -127,8 +123,10 @@ Building scalable systems, real-time applications, and data-driven solutions wit
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajkr-1&label=Profile%20Views&color=blue&style=flat" alt="Rajkr-1 profile views" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Rajkr-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ If you like my work, consider starring my repositories.
 
