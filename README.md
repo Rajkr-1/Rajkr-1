@@ -1,6 +1,6 @@
 <h1 align="center">Raj Kumar</h1>
 <h3 align="center">
-Computer Science Undergraduate | Software Engineer | C/C++ | Full-Stack | AI/ML
+Computer Science Undergraduate |Aspiring Software Engineer | C/C++ | Full-Stack | AI/ML
 </h3>
 
 <p align="center">
