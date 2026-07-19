@@ -133,18 +133,22 @@ Building scalable software, systems applications, and full-stack web solutions w
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajkr-1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajkr-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkr-1&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Rajkr-1&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rajkr-1&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajkr-1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
