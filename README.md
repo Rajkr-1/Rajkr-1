@@ -133,7 +133,7 @@ Building scalable software, systems applications, and full-stack web solutions w
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajkr-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajkr-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=Rajkr-1&theme=tokyonight&hide_border=true" />
 
@@ -141,7 +141,7 @@ Building scalable software, systems applications, and full-stack web solutions w
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajkr-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </p>
 
